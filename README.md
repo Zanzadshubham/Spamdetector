@@ -1,2 +1,1 @@
-# Spamdetector
-Final Year Project
+# Emial_Spam_Classification
