@@ -71,7 +71,6 @@ if st.button("Check"):
 				st.success("This is Not A Spam Email")
 				speak("This is Not A Spam Email")
 			else:
-			
-			st.error("This is A Spam Email")
+				st.error("This is A Spam Email")
 				speak("This is A Spam Email")
 main()
