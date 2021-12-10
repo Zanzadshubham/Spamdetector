@@ -1,6 +1,6 @@
 import streamlit as st
 import pickle
-sckit-learn
+scikit-learn
 from sklearn.feature_extraction.text import CountVectorizer
 import numpy as np
 from win32com.client import Dispatch
