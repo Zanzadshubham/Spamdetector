@@ -1,12 +1,10 @@
 import streamlit as st
-import os
-import sklearn 
+import pickle 
 from sklearn.feature_extraction.text import CountVectorizer
 import numpy as np
 from win32com.client import Dispatch
 from PIL import Image
 import pytesseract
-import pickle
 
 pytesseract.pytesseract.tesseract_cmd= r'C:\Program Files\Tesseract-OCR\tesseract.exe'
 
