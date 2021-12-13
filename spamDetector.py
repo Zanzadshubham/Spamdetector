@@ -1,5 +1,5 @@
 import streamlit as st
-import sklearn
+from sklearn import datasets
 import pickle
 from sklearn.feature_extraction.text import CountVectorizer
 import numpy as np
